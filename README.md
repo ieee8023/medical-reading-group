@@ -1,3 +1,5 @@
+![](mila-medical-logo-small.png)
+
 # Mila Medical Reading Group
 
 A group to discuss methods related to genomics, imaging, or clinical data. Enumerating all successful and impactful applications of ML/DL in medicine.
