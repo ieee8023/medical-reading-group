@@ -8,7 +8,7 @@ Organizer: [Joseph Paul Cohen](https://josephpcohen.com)
 
 Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 
-| Date | Speaker | Title | Reference/Slides |
+| Date | Speaker | Title | Reference |
 |---|--|--|----|
 | 2/4/2019 | Baptiste Goujaud | TBD |  |
 | 1/28/2019 | Alex Zabbal | DL applications for Neuroscience |  |
