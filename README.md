@@ -47,5 +47,5 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | 3/14/2018 | Everyone | Project updates |  |
 | 3/7/2018 | Francis Dutil | So you are presenting Convolutional Networks on Graphs for Learning Molecular Fingerprints | [Paper](https://arxiv.org/abs/1509.09292) |
 | 2/28/2018 | Christopher Beckham | Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules |  |
-| 2/21/2018 | Christopher Beckham | The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology | [Paper](http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=view&path%5B0%5D=14073&path%5B1%5D=44886) |
+| 2/21/2018 | Christopher Beckham & Geneviève Boucher | The cornucopia of meaningful leads: Applying deep adversarial autoencoders for new molecule development in oncology [Paper](http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=view&path%5B0%5D=14073&path%5B1%5D=44886) & Near-optimal probabilistic RNA-seq quantification [Paper](https://www.nature.com/articles/nbt.3519) |  |
 | 2/14/2018 | Everyone | Project updates |  |
