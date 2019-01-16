@@ -12,7 +12,7 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 |---|--|--|----|
 | 3/11/2019 | | | |
 | 3/4/2019 | | |  |
-| 2/25/2019 | | |  |
+| 2/25/2019 |Geneviève Boucher | |  |
 | 2/18/2019 | | |  |
 | 2/11/2019 | | |  |
 | 2/4/2019 | Baptiste Goujaud | TBD |  |
