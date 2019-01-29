@@ -10,7 +10,11 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 
 | Date | Speaker | Title | Reference |
 |---|--|--|----|
-| 3/11/2019 | | | |
+| 4/8/2019 | | | |
+| 4/1/2019 | | | |
+| 3/25/2019 | | | |
+| 3/18/2019 | | | |
+| 3/11/2019 | Thomas Rademaker | | |
 | 3/4/2019 |Geneviève Boucher | |  |
 | 2/25/2019 | - | Cancelled for Comp4Med |  |
 | 2/18/2019 | Camille Rochefort-Boulanger | |  |
