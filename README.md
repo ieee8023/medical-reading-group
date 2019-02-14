@@ -17,7 +17,7 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | 3/11/2019 | Thomas Rademaker | | |
 | 3/4/2019 |Geneviève Boucher | |  |
 | 2/25/2019 | - | Cancelled for Comp4Med |  |
-| 2/18/2019 | Camille Rochefort-Boulanger | |  |
+| 2/18/2019 | Camille Rochefort-Boulanger |  Comprehensive functional genomic resource and integrative model for the human brain | [Paper](http://science.sciencemag.org/content/362/6420/eaat8464) |
 | 2/11/2019 | Louis Collins | MRI basics: short presentation, questions + answers |  |
 | 2/4/2019 | Baptiste Goujaud | Use of the adversarial training in medical imaging across examples |  |
 | 1/28/2019 | Alex Zabbal | DL applications for Neuroscience |  |
