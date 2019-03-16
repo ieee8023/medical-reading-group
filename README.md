@@ -10,6 +10,9 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 
 | Date | Speaker | Title | Reference |
 |---|--|--|----|
+| 4/29/2019 | | | |
+| 4/22/2019 | | | |
+| 4/15/2019 | | | |
 | 4/8/2019 | Maxime Thibault | Prediction of the next medication order to assist prescription verification by pharmacists in a health care center | |
 | 4/1/2019 | | | |
 | 3/25/2019 | | | |
