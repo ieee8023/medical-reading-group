@@ -28,13 +28,13 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | 1/14/2019 | Martin Weiss and Paul Bertin | Gene Graph Convolutions |  |
 | 12/12/2018 | Mohammed AlQuraishi | End-to-End Differentiable Learning of Protein Structure | [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3239970) |
 | 11/28/2018 | Georgy Derevyanko | Predicting protein complexes: classical approaches and deep learning |  |
-| 11/14/2018 | Julien Cohen | Connecting MRI physics and A.I. to advance neuroimaging | [Slides](slides/20181114_MILA_seminar.pdf) |
+| 11/14/2018 | Julien Cohen | Connecting MRI physics and A.I. to advance neuroimaging | [Slides](slides/20181114_MILA_seminar.pdf) [gSlides](https://docs.google.com/presentation/d/1IN0lLS8lV_vSEwwyI6Vrb43HCc6ahtjY9wof_-vB0x4/edit) |
 | 11/7/2018 | Georgy Derevyanko | Learning Protein Structure with a Differentiable Simulator |  |
 | 10/31/2018 | Suzanne Tamang | Clinical tools: A survey of Suzanne Tamang's work |  |
 | 10/24/2018 | Martin Weiss | A Survey of Mobile Computing for the Visually Impaired | [Paper](https://arxiv.org/abs/1811.10120) |
 | 10/17/2018 | Paul Bertin | Uncertainty measures for Multiple Sclerosis Lesion Segmentation | [Paper](https://arxiv.org/abs/1808.01200) |
 | 10/10/2018 | Abdou Mousas | Genome-wide polygenic scores for common diseases identify individuals with risk equivalent to monogenic mutations|  |
-| 10/3/2018 | Vincent Frappier | Lessons from Natural Language Inference in the Clinical Domain |  |
+| 10/3/2018 | Vincent Frappier | Lessons from Natural Language Inference in the Clinical Domain | [Slides](slides/MILA_Medical_NLP_EHR.pdf) |
 | 9/12/2018 | Assya Trofimov | dna2vec: Consistent vector representations of variable-length k-mers | [Paper](https://arxiv.org/abs/1701.06279)  |
 | 9/5/2018 | Lucie Blais | Medication adherence as a predictor of morbidity and mortality in patients with chronic respiratory diseases |  |
 | 8/22/2018 | Francis Dutil | DeepSEA Predicting effects of noncoding variants with deep learning–based sequence model |  |
