@@ -39,7 +39,7 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | 9/5/2018 | Lucie Blais | Medication adherence as a predictor of morbidity and mortality in patients with chronic respiratory diseases |  |
 | 8/22/2018 | Francis Dutil | DeepSEA Predicting effects of noncoding variants with deep learning–based sequence model |  |
 | 8/8/2018 | Vincent Frappier | Recomendation of ICD codes literature review |  |
-| 8/1/2018 | Martin Weiss | Syntax-Directed Variational Autoencoder for Structured Data |  |
+| 8/1/2018 | Martin Weiss | Syntax-Directed Variational Autoencoder for Structured Data | [gSlides](https://docs.google.com/presentation/d/1acNguM5q2Y0clg74dxFpnP3HMT9HhD6ayzhOnmbLmv4/edit) [Video](https://www.youtube.com/watch?v=6HqIk-PxpCo) |
 | 6/27/2018 | Martin Weiss | Recurrent Neural Networks for Multivariate Time Series with Missing Values |  |
 | 6/20/2018 | Vincent Frappier | Exploring sequence binding space using coevolution and structural tertiary motifs |  |
 | 6/13/2018 | Joseph Paul Cohen | A survey of clinical data successes using machine learning | [Slides](https://docs.google.com/presentation/d/1hmJKGmreVzfGCjtcgy3aAFpuZHRNymN4vCBGpvfL0S0/edit) |
