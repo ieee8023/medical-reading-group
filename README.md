@@ -48,7 +48,7 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | 4/25/2018 | Everyone | Project updates |  |
 | 4/18/2018 | Everyone | Project updates |  |
 | 4/11/2018 | Georgy Derevyanko | Inverse Statistical Physics of Protein Sequences:  A Key Issues Review |  |
-| 4/4/2018 | Joseph Cohen | Generative adversarial networks uncover epidermal regulators and predict single cell perturbations |  |
+| 4/4/2018 | Joseph Cohen | Generative adversarial networks uncover epidermal regulators and predict single cell perturbations | [Slides](https://docs.google.com/presentation/d/1rS6kPXosNbSOWOiI2C8E18KWo20XEPubx6_VURYCco0/edit) |
 | 3/28/2018 | Everyone | Slide Karaoke |  |
 | 3/21/2018 | Martin Weiss | Network-based machine learning and graph theory algorithms for precision oncology |  |
 | 3/14/2018 | Everyone | Project updates |  |
