@@ -10,6 +10,10 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 
 | Date | Speaker | Title | Reference |
 |---|--|--|----|
+| 6/24/2019 | | | |
+| 6/17/2019 | | | |
+| 6/10/2019 | | | |
+| 6/3/2019 | | | |
 | 5/27/2019 | | | |
 | 5/20/2019 | | | |
 | 5/13/2019 | | | |
