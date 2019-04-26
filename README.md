@@ -16,8 +16,8 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | 6/3/2019 | | | |
 | 5/27/2019 | | | |
 | 5/20/2019 | | | |
-| 5/13/2019 | | | |
-| 5/6/2019 | Eugene Vorontsov | Boosting segmentation with weak supervision from image-to-image translation | [Paper](https://arxiv.org/abs/1904.01636) |
+| 5/13/2019 |Eugene Vorontsov | Boosting segmentation with weak supervision from image-to-image translation | [Paper](https://arxiv.org/abs/1904.01636) |
+| 5/6/2019 | | Cancelled for ICLR | |
 | 4/29/2019 | Julien Cohen-Adad <br>Mathieu Lavallée-Adam | [AI for Health at Mila!](https://www.meetup.com/AIForHealth/events/260733571/) | |
 | 4/23/2019<br>Tuesday! | Georgy Derevyanko | <details><summary>Protein-protein docking using learned three-dimensional representations </summary><p>Abstract: Proteins are the cogs of cellular machinery. Understanding how these molecules interact and predicting structures of their complexes is unavoidable step we need to pass to understand emergence of the phenotype of an organism from its genotype. Rigid-body docking approaches the problem by assuming two proteins rigid and sampling rotations and translations of the ligand with respect to the receptor. The key idea, that allows the sampling to be performed in a reasonable timeframe is representation of the interaction energy between the two proteins as correlations of 3d protein representations. However, these representations themselves are either pretrained or handcrafted. In this work we present an algorithm that allows learning protein representations for docking in the end-to-end fashion.</p></details> | |
 | 4/15/2019 |Phil Novosad |Self-ensembling for domain adaptation: application to neuroanatomical segmentation in MRI | |
