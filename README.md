@@ -13,7 +13,7 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | 6/24/2019 | | | |
 | 6/17/2019 | | | |
 | 6/10/2019 | | | |
-| 6/3/2019 | | | |
+| 6/3/2019 | Li Yao | <details><summary>Challenges in Machine Learning with Radiology</summary><p>This talk investigates three challenges in ML and radiology. Firstly, ML models trained on specialized medical data generalize poorly out-of-domain. Secondly, automatic labelling with NLP only provides noisy ground truth. Thirdly, classical non-ML based image registration runs inefficiently. Some ML based recipes are presented to alleviate the aforementioned issues.</p></details> | |
 | 5/27/2019 | | | |
 | 5/20/2019 | | | |
 | 5/13/2019 |Eugene Vorontsov | Boosting segmentation with weak supervision from image-to-image translation | [Paper](https://arxiv.org/abs/1904.01636) |
