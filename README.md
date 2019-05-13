@@ -13,11 +13,11 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | 7/29/2019 | | | |
 | 7/22/2019 | | | |
 | 7/15/2019 | | | |
-| 7/8/2019 | | Cancelled for [MIDL](http://2019.midl.io/) | |
+| 7/8/2019 | - | Cancelled for [MIDL](http://2019.midl.io/) | |
 | 7/1/2019 | | | |
 | 6/24/2019 | | | |
 | 6/17/2019 | | | |
-| 6/10/2019 | | Cancelled for [ICML](https://icml.cc/) | |
+| 6/10/2019 | - | Cancelled for [ICML](https://icml.cc/) | |
 | 6/3/2019 | Li Yao | <details><summary>Challenges in Machine Learning with Radiology</summary><p>This talk investigates three challenges in ML and radiology. Firstly, ML models trained on specialized medical data generalize poorly out-of-domain. Secondly, automatic labelling with NLP only provides noisy ground truth. Thirdly, classical non-ML based image registration runs inefficiently. Some ML based recipes are presented to alleviate the aforementioned issues.</p></details> | |
 | 5/27/2019 | Eugene Vorontsov | <details><summary>Boosting segmentation with weak supervision from image-to-image translation</summary><p>In many cases, especially with medical images, it is prohibitively challenging to produce a sufficiently large training sample of pixel-level annotations to train deep neural networks for semantic image segmentation. On the other hand, some information is often known about the contents of images. We leverage information on whether an image presents the segmentation target or whether it is absent from the image to improve segmentation performance by augmenting the amount of data usable for model training. Specifically, we propose a semi-supervised framework that employs image-to-image translation between weak labels (e.g., presence vs. absence of cancer), in addition to fully supervised segmentation on some examples. We conjecture that this translation objective is well aligned with the segmentation objective as both require the same disentangling of image variations. Building on prior image-to-image translation work, we re-use the encoder and decoders for translating in either direction between two domains, employing a strategy of selectively decoding domain-specific variations. For presence vs. absence domains, the encoder produces variations that are common to both and those unique to the presence domain. Furthermore, we successfully re-use one of the decoders used in translation for segmentation. We validate the proposed method on synthetic tasks of varying difficulty as well as on the real task of brain tumor segmentation in magnetic resonance images, where we show significant improvements over standard semi-supervised training with autoencoding.</p></details> | [Paper](https://arxiv.org/abs/1904.01636) |
 | 5/20/2019 | | | |
