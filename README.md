@@ -10,6 +10,11 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 
 | Date | Speaker | Title | Reference |
 |---|--|--|----|
+| ... | | | |
+| 8/26/2019 | | | |
+| 8/19/2019 | | | |
+| 8/12/2019 | | | |
+| 8/5/2019 | | | |
 | 7/29/2019 | | | |
 | 7/22/2019 | | | |
 | 7/15/2019 | Martin Weiss | <details><summary>Genome-wide identification of directed gene networks using large-scale population genomics data</summary><p>Identification of causal drivers behind regulatory gene networks is crucial in understanding gene function. Here, we develop a method for the large-scale inference of gene–gene interactions in observational population genomics data that are both directed (using local genetic instruments as causal anchors, akin to Mendelian Randomization) and specific (by controlling for linkage disequilibrium and pleiotropy). Analysis of genotype and whole-blood RNA-sequencing data from 3072 individuals identified 49 genes as drivers of downstream transcriptional changes (Wald P < 7 × 10−10), among which transcription factors were overrepresented (Fisher’s P = 3.3 × 10−7). Our analysis suggests new gene functions and targets, including for SENP7 (zinc-finger genes involved in retroviral repression) and BCL2A1 (target genes possibly involved in auditory dysfunction). Our work highlights the utility of population genomics data in deriving directed gene expression networks. A resource of trans-effects for all 6600 genes with a genetic instrument can be explored individually using a web-based browser.</p></details> | [Paper](https://www.nature.com/articles/s41467-018-05452-6)|
