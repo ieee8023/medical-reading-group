@@ -11,6 +11,13 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | Date | Speaker | Title | Reference |
 |---|--|--|----|
 | ... | | | |
+| 10/14/2019 | - | Cancelled for Thanksgiving Day (Canada) | |
+| 10/7/2019 | | | |
+| 9/30/2019 | | | |
+| 9/23/2019 | | | |
+| 9/16/2019 | - | AI for Health Meetup| |
+| 9/9/2019 | | | |
+| 9/2/2019 | - | Cancelled for Labor Day (US) | |
 | 8/26/2019 | | | |
 | 8/19/2019 | | | |
 | 8/12/2019 | | | |
