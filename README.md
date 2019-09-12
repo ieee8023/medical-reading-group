@@ -11,6 +11,15 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | Date | Speaker | Title | Reference |
 |---|--|--|----|
 | ... | | | |
+| 12/16/2019 | | | |
+| 12/9/2019 | | Cancelled for NeurIPS | |
+| 12/2/2019 | | | |
+| 11/25/2019 | | | |
+| 11/18/2019 | | | |
+| 11/11/2019 | | | |
+| 11/4/2019 | | | |
+| 10/28/2019 | | | |
+| 10/21/2019 | | | |
 | 10/14/2019 | - | Cancelled for Thanksgiving Day (Canada) | |
 | 10/7/2019 | | | |
 | 9/30/2019 | | | |
