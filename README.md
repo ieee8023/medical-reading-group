@@ -18,7 +18,7 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | 11/18/2019 | | | |
 | 11/11/2019 | | | |
 | 11/4/2019 | | | |
-| 10/28/2019 | | | |
+| 10/28/2019 | - | Cancelled | |
 | 10/21/2019 | Smita Krishnaswamy |Deep learning and graph signal processing yield insight into cellular state spaces under complex experimental conditions | [Slides](https://www.dropbox.com/s/spf800u712prx21/MILA_talk.pptx?dl=0) |
 | 10/14/2019 | - | Cancelled for Thanksgiving Day (Canada) | |
 | 10/7/2019 | | | |
