@@ -16,8 +16,8 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | 12/2/2019 | | | |
 | 11/25/2019 | | | |
 | 11/18/2019 | | | |
-| 11/11/2019 | | | |
-| 11/4/2019 | | | |
+| 11/11/2019 | Zongwei Zhou | Models Genesis: Generic Autodidactic Models for 3D Medical Image Analysis | [Paper](https://arxiv.org/abs/1908.06912) |
+| 11/4/2019 | - | Cancelled| |
 | 10/28/2019 | - | Cancelled | |
 | 10/21/2019 | Smita Krishnaswamy |Deep learning and graph signal processing yield insight into cellular state spaces under complex experimental conditions | [Slides](https://www.dropbox.com/s/spf800u712prx21/MILA_talk.pptx?dl=0) |
 | 10/14/2019 | - | Cancelled for Thanksgiving Day (Canada) | |
