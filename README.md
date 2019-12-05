@@ -11,7 +11,7 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | Date | Speaker | Title | Reference |
 |---|--|--|----|
 | ... | | | |
-1/13/2019 | | | |
+1/13/2019 | Hasib Zunair | Tuberculosis severity estimation from volumetric CT scans using uniformizing techniques and 3D Convolutional Net | [paper](https://www.researchgate.net/publication/334680379_Estimating_Severity_from_CT_Scans_of_Tuberculosis_Patients_using_3D_Convolutional_Nets_and_Slice_Selection) |
 1/6/2019 | | | |
 | 12/30/2019 | | Cancelled | |
 | 12/23/2019 | | Cancelled | |
