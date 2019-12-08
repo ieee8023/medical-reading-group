@@ -17,8 +17,8 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | 12/23/2019 | | Cancelled | |
 | 12/16/2019 | | | |
 | 12/9/2019 | | Cancelled for NeurIPS | |
-| 12/2/2019 | | | |
-| 11/25/2019 | | | |
+| 12/2/2019 | - | Cancelled | |
+| 11/25/2019 | - | Cancelled | |
 | 11/18/2019 | - | Cancelled for [AI for Health](https://www.meetup.com/AIForHealth/events/266542207) | |
 | 11/11/2019 | Zongwei Zhou | Models Genesis: Generic Autodidactic Models for 3D Medical Image Analysis | [Paper](https://arxiv.org/abs/1908.06912) [GitHub](https://github.com/MrGiovanni/ModelsGenesis) [Slides](slides/ModelsGenesis.pdf) |
 | 11/4/2019 | - | Cancelled| |
