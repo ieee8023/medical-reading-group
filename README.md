@@ -20,7 +20,7 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | 1/6/2019 | | | |
 | 12/30/2019 | | Cancelled | |
 | 12/23/2019 | | Cancelled | |
-| 12/16/2019 | | | |
+| 12/16/2019 | Tobias Würfl | <details><summary>Deep Learning for Reconstruction in X-ray Computed Tomography and Novelty Detection</summary><p> In the first half of the talk I will focus on reconstruction of the three-dimensional distribution of the X-ray attenuation coefficient. This is an ill-posed inverse problem if the measured data is incomplete. Analytical algorithms produce artifacts in those settings. This presentation will show how to reinterpret those analytical algorithms as known operators in a convolutional neural network. I will compare this to competing approaches in the literature and showcase the advantages and limitations of our approach. In the second half of the talk I will introduce the problem of novelty detection and review current approaches in the literature. I will review the problem of performance evaluation of such algorithms and look into future research directions for novelty detection.</p></details> | [Paper](https://www5.informatik.uni-erlangen.de/Forschung/Publikationen/2018/Wurfl18-DLC.pdf)<br> |  |
 | 12/9/2019 | | Cancelled for NeurIPS | |
 | 12/2/2019 | - | Cancelled | |
 | 11/25/2019 | - | Cancelled | |
