@@ -4,7 +4,7 @@
 
 A group to discuss methods related to genomics, imaging, or clinical data. Enumerating all successful and impactful applications of ML/DL in medicine.
 
-Organizer: [Joseph Paul Cohen](https://josephpcohen.com)
+Organizers: [Joseph Paul Cohen](https://josephpcohen.com) and [Paul Bertin](https://bertinus.github.io/)
 
 Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 
