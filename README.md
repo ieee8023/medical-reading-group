@@ -11,7 +11,7 @@ Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 | Date | Speaker | Title | Reference |
 |---|--|--|----|
 | ... | | | |
-| 2/17/2020 | | | |
+| 2/17/2020 | Team | Overview of projects | |
 | 2/10/2020 | | | |
 | 2/3/2020 | | | |
 | 1/27/2020 | | | |
