@@ -8,6 +8,8 @@ Organizers: [Joseph Paul Cohen](https://josephpcohen.com) and [Paul Bertin](http
 
 Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
 
+Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, QC H2S 3H1.
+
 | Date | Speaker | Title | Reference |
 |---|--|--|----|
 | ... | | | |
