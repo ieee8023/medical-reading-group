@@ -13,6 +13,7 @@ Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, Q
 | Date | Speaker | Title | Reference |
 |---|--|--|----|
 | ... | | | |
+| 2/24/2020 | Marc-André Legault | Using genetic variants for causal inference using Mendelian randomization | |
 | 2/17/2020 | Team | Overview of projects | |
 | 2/10/2020 | | | |
 | 2/3/2020 | Paul Bertin | Challenges of ML for genomics | |
