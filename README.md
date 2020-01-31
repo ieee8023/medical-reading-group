@@ -14,7 +14,7 @@ Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, Q
 |---|--|--|----|
 | ... | | | |
 | 3/9/2020 | | | |
-| 3/2/2020 | | | |
+| 3/2/2020 | Marc-André Legault | Using genetic variants for causal inference using Mendelian randomization | |
 | 2/24/2020| - | Cancelled for AI for Health Journal Club at UdeM | |
 | 2/17/2020 | Team | Overview of projects | |
 | 2/10/2020 | | | |
