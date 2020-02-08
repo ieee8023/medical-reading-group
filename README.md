@@ -1,12 +1,10 @@
-![](mila-medical-logo-small.png)
-
-# Mila Medical Reading Group
+# Medical Reading Group
 
 A group to discuss methods related to genomics, imaging, or clinical data. Enumerating all successful and impactful applications of ML/DL in medicine.
 
 Organizers: [Joseph Paul Cohen](https://josephpcohen.com) and [Paul Bertin](https://bertinus.github.io/)
 
-Join the mailing list here: https://groups.google.com/forum/#!forum/mila-medical
+Join the mailing list here: https://groups.google.com/forum/#!forum/ml-medical
 
 Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, QC H2S 3H1.
 
