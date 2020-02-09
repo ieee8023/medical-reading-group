@@ -15,7 +15,7 @@ Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, Q
 | 3/2/2020 | Marc-André Legault | Using genetic variants for causal inference using Mendelian randomization | |
 | 2/24/2020| - | Cancelled for AI for Health Journal Club at UdeM | |
 | 2/17/2020 | Team | Overview of projects | |
-| 2/10/2020 | Rupert Brooks|  DeepAAA: clinically applicable and generalizable detection of abdominal aortic aneurysm using deep learning | [Paper] (https://arxiv.org/abs/1907.02567) |
+| 2/10/2020 | Rupert Brooks|  DeepAAA: clinically applicable and generalizable detection of abdominal aortic aneurysm using deep learning | [Paper](https://arxiv.org/abs/1907.02567) |
 | 2/3/2020 | Paul Bertin | Challenges of ML for genomics | |
 | 1/27/2020 | | Cancelled | |
 | 1/20/2020 | Hao Yu Chen and Itai Magodoro | Prediction of Subclinical Disease from MRI: A CARTaGENE Study Proposal| |
