@@ -11,6 +11,13 @@ Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, Q
 | Date | Speaker | Title | Reference |
 |---|--|--|----|
 | ... | | | |
+| 4/27/2020  | | | |
+| 4/20/2020  | | | |
+| 4/13/2020  | | | |
+| 4/6/2020  | | | |
+| 3/30/2020  | | | |
+| 3/23/2020  | | | |
+| 3/16/2020  | | | |
 | 3/9/2020 | Md Golam Kibria | Application of Convolutional Neural Network in Ultrasound Elastography | |
 | 3/2/2020 | Marc-André Legault | Using genetic variants for causal inference using Mendelian randomization | |
 | 2/24/2020| - | Cancelled for AI for Health Journal Club at UdeM | |
