@@ -4,7 +4,7 @@ A group to discuss methods related to genomics, imaging, or clinical data. Enume
 
 Organizers: [Joseph Paul Cohen](https://josephpcohen.com) and [Paul Bertin](https://bertinus.github.io/)
 
-Join the mailing list here (add a note about who you are to the join request): https://groups.google.com/forum/#!forum/ml-medical
+Join the mailing list here (add a note about who you are to the join request): https://groups.google.com/forum/#!forum/montreal-medical-ai
 
 Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, QC H2S 3H1.
 
