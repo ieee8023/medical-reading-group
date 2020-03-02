@@ -19,7 +19,7 @@ Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, Q
 | 3/23/2020  | | | |
 | 3/16/2020  | | | |
 | 3/9/2020 | Md Golam Kibria | Application of Convolutional Neural Network in Ultrasound Elastography | |
-| 3/2/2020 | Marc-André Legault | Using genetic variants for causal inference using Mendelian randomization | [paper](https://www.medrxiv.org/content/10.1101/2020.01.29.20019521v1) |
+| 3/2/2020 | Marc-André Legault | Using genetic variants for causal inference using Mendelian randomization | [Paper](https://www.medrxiv.org/content/10.1101/2020.01.29.20019521v1) |
 | 2/24/2020| - | Cancelled for [AI for Health Journal Club at UdeM](https://www.meetup.com/AIForHealth/events/268938878) | |
 | 2/17/2020 | Team | Overview of projects | |
 | 2/10/2020 | Rupert Brooks|  DeepAAA: clinically applicable and generalizable detection of abdominal aortic aneurysm using deep learning | [Paper](https://arxiv.org/abs/1907.02567) |
