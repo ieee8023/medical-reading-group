@@ -11,7 +11,7 @@ Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, Q
 | Date | Speaker | Title | Reference |
 |---|--|--|----|
 | ... | | | |
-| 4/27/2020  | | | |
+| 4/27/2020  | - | Cancelled for AI for Health Journal Club | |
 | 4/20/2020  | | | |
 | 4/13/2020  | | | |
 | 4/6/2020  | | | |
