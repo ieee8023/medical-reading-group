@@ -16,7 +16,7 @@ Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, Q
 | 4/13/2020  | | | |
 | 4/6/2020  | | | |
 | 3/30/2020  | | | |
-| 3/23/2020  | | | |
+| 3/23/2020  | Hassan Rivaz | Making sense of the data trove hidden in ultrasound signals | |
 | 3/16/2020  | Md Golam Kibria | Application of Convolutional Neural Network in Ultrasound Elastography | |
 | 3/9/2020 | | Cancelled | |
 | 3/2/2020 | Marc-André Legault | Using genetic variants for causal inference using Mendelian randomization | [Paper](https://www.medrxiv.org/content/10.1101/2020.01.29.20019521v1) [Slides](slides/MendelianRandomization.pdf) |
