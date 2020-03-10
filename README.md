@@ -15,7 +15,7 @@ Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, Q
 | 4/20/2020  | | | |
 | 4/13/2020  | | | |
 | 4/6/2020  | | | |
-| 3/30/2020  | | | |
+| 3/30/2020  | Ernest (Khashayar) Namdar | An Overview on the Concept of AUC and Evolution-based Fine-tuning of CNNs for Higher AUC Performance | |
 | 3/23/2020  | Hassan Rivaz | Making sense of the data trove hidden in ultrasound signals | |
 | 3/16/2020  | Md Golam Kibria | Application of Convolutional Neural Network in Ultrasound Elastography | |
 | 3/9/2020 | | Cancelled | |
