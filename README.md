@@ -3,6 +3,7 @@
 A group to discuss methods related to genomics, imaging, or clinical data. Enumerating all successful and impactful applications of ML/DL in medicine.
 
 Organizer: [Paul Bertin](https://bertinus.github.io/) (former organizer [Joseph Paul Cohen](https://josephpcohen.com))
+
 Join the mailing list here (add a note about who you are to the join request): https://groups.google.com/forum/#!forum/montreal-medical-ai
 
 Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, QC H2S 3H1.
