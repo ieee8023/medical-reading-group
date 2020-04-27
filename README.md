@@ -16,7 +16,7 @@ Talks are usually given on Mondays at 2:30pm at Mila, 6666 St Urbain Montreal, Q
 | 5/18/2020  | | | |
 | 5/11/2020  | | | |
 | 5/04/2020  | | | |
-| 4/27/2020  | - | Cancelled for AI for Health Journal Club | |
+| 4/27/2020  | | | |
 | 4/20/2020  | | | |
 | 4/14/2020  | Camille Rochefort-Boulanger | Feature Learning of Virus Genome Evolution With the Nucleotide Skip-Gram Neural Network | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6335656/pdf/10.1177_1176934318821072.pdf) |
 | 4/6/2020  | | Cancelled |
